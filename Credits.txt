@@ -1,0 +1,15 @@
+--Credits--
+Derived from Greenfield texture pack 1.17 by Kris, NJ, Blue, Staples, JacobKazias, & Cooth
+
+all 1.18, 1.19, 1.20, 1.21, and many others made by me, WL147. See "Changelog"
+
+Other Influences/Inspirations:
+Yuushya 0.17.1
+Cubedpack.6.0.2
+City texture pack Legacy Console Edition
+Chinese texture pack Legacy Console Edition
+Greek texture pack Legacy Console Edition
+Festive texture pack Legacy Console Edition
+Natural texture pack Legacy Console Edition
+Sozajitizen
+Pam's Harvest Craft

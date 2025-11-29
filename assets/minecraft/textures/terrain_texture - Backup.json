@@ -1,0 +1,35 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"bookshelf": {
+			"textures": [{
+					"variations": [{
+						"path": "textures/blocks/bookshelf"
+					}, {
+						"path": "textures/blocks/bookshelf_2"
+					}, {
+						"path": "textures/blocks/bookshelf_3"
+					}, {
+						"path": "textures/blocks/bookshelf_4"
+					}, {
+						"path": "textures/blocks/bookshelf_5"
+					}, {
+						"path": "textures/blocks/bookshelf_6"
+					}, {
+						"path": "textures/blocks/bookshelf_7"
+					}, {
+						"path": "textures/blocks/bookshelf_8"
+					}, {
+						"path": "textures/blocks/bookshelf_9"
+					}, {
+						"path": "textures/blocks/bookshelf_10"
+					}]
+				},
+				"textures/blocks/pumpkin_side"
+			]
+		}
+	}
+}

@@ -1,0 +1,421 @@
+Todo:
+- full wood rework 8 planks, 4 grain, 4 others
+- change pitcher plant related stuff
+- find someway to change mobheads
+- maybe discs become brand logos?
+- oxidized copper unwaxed split off cause it cant oxidize any farther
+- double painting count
+- revamping remaining paintings
+Updates:
+Version 0.8.2 for "Java Transition"
+-Now Using Greenfield Models/Textures:
+--Candles
+-Added Glow Item Frame Texture (Mirror)
+-Added Custom Copper Bars Texture (Black Fence)
+-Added Custom Sunflower Painting Texture (3x3 Graffiti)
+-Changed Wither Painting
+-Changed Match Painting
+-Changed Bust Painting
+-Changed Stage Painting
+-Changed Void Painting
+-Changed Donkey Kong Painting
+-Changed Sculk Catalyst to be darker
+-Changed Mangrove Leaves to be fully Original
+-Changed Pale Oak Leaves to be fully Original
+-Changed end_portal
+-Reverted Aztec Painting
+-Reverted Cracked Deepslate Tiles to Greenfield Version
+-Mangrove Leaves now TGA instead of PNG
+-Pale Oak Leaves now TGA instead of PNG
+-Fixed Item Frame Texture
+-Fixed Various Textures messed up in transition
+Version 0.8.1 for 1.21.100 (8/11/2025)
+-Added More Tile renames which should have been done last update
+-Changed Lowmist
+-Changed Polised Diorite (Granite from Greenfield Pack)
+-Changed Tuff (Quartzite)
+-Changed End Portal Frame back to Greenfield Version
+-Changed Tides Painting to be current update
+-Changed Oxidized Chiseled Copper
+-Changed Chiseled Copper
+-Reverted Oak Leaves
+Version 0.8 for 1.21.93 (7/8/2025)
+-This is probably the biggest part of this update, in Pack Settings you can now chose between multiple panoramas of my worlds! Future updates will add Old Fun versions, the Current Version, and maybe Tu19 and Tu31. The Dogecraft one is kinda low-detail but when I add the others I will rework that one. It's also off center
+-Added Custom Beacon Beam Texture
+-Added Custom Destroy Stages Textures
+-Added Custom End Gateway Textures
+-Added Custom Lead Texture
+-Added Custom Oak Leaves Texture
+-Added Custom Mangrove Propagule Texture (Apple), Temporary
+-Added Custom Leaf Litter Texture (Litter)
+-Added Custom Wildflowers Texture (Dandelions)
+-Added Custom Cactus Flower Texture (Random Tulips)
+-Added Custom Eyeblossom Dormant Texture (Butterfly Milkweed)
+-Added Custom Eyeblossom Texture (Canadian Goldenrod) - Recoloured from Greenfield red tulip - placeholder
+-Added Custom Bush Texture (Asian Burning Bush)
+-Added Custom Firefly Bush Texture (Marshland Reeds)
+-Added Custom Short Dry Grass Texture (Marshland Switchgrass)
+-Added Custom Tall Dry Grass Texture (Marshland Sedges)
+-Added Custom Chiseled Resin Texture (Reddish-Orange Bricks)
+-Added Custom Resin Bricks Texture (Reddish-Orange Stucco)
+-Added Custom Sculk Sensor Texture (Slate Art-Deco Slab)
+-Added Custom Sculk Shrieker Texture (Limestone Art-Deco Slab)
+-Added Custom Calibrated Sculk Sensor Texture (Terracotta Art-Deco Slab)
+-Added Custom Pale Moss Carpet Texture (Grid Carpet)
+-Added Custom Pale Moss Carpet Side (Wainscoting + Beanboard)
+-Added Custom Pale Oak Sapling Texture (Willow Tree)
+-Added Custom Pale Log Texture (Orange Terracotta with White Terracotta Moulding)
+-Added Custom Stripped Pale Log Texture (Green Terracotta with Black Terracotta Moulding)
+-Added Custom Pale Oak Sign Texture (Yellow Sign)
+-Added Custom Creaking Heart Texture (Grey/Brown Granite Pillar)
+-Added 5 Custom Infested Chiseled Stone Bricks Textures (Fern Green Cladding) 
+-Added 5 Custom Infested Cracked Stone Bricks Textures (Crimson Cladding) 
+-Added Custom Infested Cobblestone Textures (8x8 Tiles)
+-Added Custom Infested Deepslate Textures (Jagged Stone Tiles)
+-Added Custom Infested Stone (Interlocking White Tiles)
+-Added Custom Infested Stone Bricks Texture (Interlocking Strips)
+-Added Custom Infested Mossy Stone Bricks Texture (Beige Interlocking Strips)
+-Changed Mud Block Slightly
+-Changed Allow Block Slightly
+-Changed Deny Block Slightly
+-Changed Gilded Blackstone Slightly
+-Changed Andesite Slightly (Black Terracotta)
+-Changed All Pot Textures
+-Changed Brown Mushroom Texture
+-Changed Side of Bone Blocks to be own texture
+-Changed End Portal Texture
+-Changed Acacia Log
+-Changed Mossy Cobblestone to be more similar to Red Siding colors
+-Changed Polished Blackstone (Green Terracotta Cinder Blocks)
+-Changed Suspicious Sand (alternating tiles)
+-Changed Glazed Terracottas (siding of 16 various colors)
+-Changed Bamboo Block (Red 4x4 grid + 2x4 grid)
+-Changed Stripped Bamboo Block (Blue 4x4 grid + 2x4 grid)
+-Changed Chiseled Tuff (Black Granite Pillar)
+-Changed Chiseled Tuff Bricks (Ornamental/Peacock Granite Pillar) (7 Variations of top)
+-Changed Title.png
+-Changed Panorama
+-Changed Foliage Colormap to be fully original
+-Changed Ochre Froglight to be fully original
+-Changed Pearlescent Froglight to be fully original
+-Changed Verdant Froglight to be fully original
+-Changed Glowstone to be fully original
+-Changed Chiseled Bookshelf to be fully original (Commercial shelf)
+-Changed Barrel to be fully original
+-Changed Iron Door to be fully original     
+-Changed Iron Block to be fully original 
+-Changed Bone Block Top to be fully original
+-Changed Polished Basalt to be fully original
+-Changed Basalt Block to be fully original
+-Changed Mossy Stone Bricks to be fully original
+-Changed Acacia Planks to be fully original
+-Changed Stripped Acacia Log to be fully original
+-Changed Bamboo Block to be fully original
+-Changed Stripped Bamboo Block to be fully original
+-Changed Stripped Mangrove Log to be fully original
+-Changed Mangrove Block to be fully original
+-Changed Mangrove Door to be fully original
+-Changed Torchflower to be fully original (Rye now instead of Barley)
+-Changed Terracotta to be fully original
+-Changed Wool Block Textures to be fully original
+-Changed Black and Red menu to be fully original (Random Yellow and Dark Gray menu)
+-Changed Mint and White menu to be fully original 
+-Changed For Sale Painting to be fully original
+-Changed Mountain Painting to be fully original
+-Changed Arrow Paintings to be fully original
+-Changed every bed texture to be fully original
+-Changed Calculator Painting to be fully original
+-Changed Sunset Painting to be fully original
+-Changed Autumn Painting to be fully original
+-Changed Summer Painting to be fully original
+-Changed Sea Painting to be fully original
+-Changed Graffiti Painting to be fully original
+-Changed Graffiti2 Painting to be fully original
+-Changed Copper Trapdoor
+-Changed "Changing" painting slightly
+-Changed Clouds Texture, Actual clouds now.
+-Even More Splashes!!
+-Modeled Globe (not used yet)
+-Modeled Pet bowls (not used yet)
+-Netherrack no longer randomly rotates
+-Reworked Glazed Terracotta to use the blocks.json file to change their orientations
+-Sculk Blocks no longer randomly rotate
+-Terracotta Blocks no longer randomly rotate
+-Removed various item textures
+-Removed Pitcher Pod Texture Temporarly
+Version 0.7.1 for 1.21 (1/25/2025)
+-Added Pale Oak Trapdoor Texture
+-Added Resin Block Texture 
+-Fixed Flipbook Texture for Jigsaw Front
+-Clouds Texture Changed to In-Universe world map with actual cloud-like features
+-Changed Cracked Deepslate Bricks (Actual Slates)
+-Changed Granite (Dacite)
+-Changed Stone (Now Slate, previously Granite was)
+-Changed Obsidian (Basalt Cobbles)
+-Changed Purple Coral (Zigzag-Pattern Bricks)
+-Changed Yellow Coral (Gray 4x4 tiles)
+-Changed Pale Oak Door to have one continuous hole
+-Changed Skulk Catalyst Texture (Mower Grass Strips)
+-Changed Lapis Ore (Random Tiles)
+-Multiple block Renames
+-1.21 paintings:
+--Pond: Map of the Metro Area
+Version 0.7 for 1.21 (12/21/2024)
+-New Panorama
+-Added Custom Glow Lichen Texture
+-Added Custom Skulk Block Texture
+-Added Custom Skulk Catalyst Texture
+-Added Custom Resin Clump Texture
+-Added Custom Pale Planks Texture
+-Added Custom Pale Oak Door Texture
+-2 New Splashes
+-Changed Wool Block Textures
+-Changed Pack.png to reflect fun 1.0.2
+-Removed "font" folder
+-updated wanderer (flag) painting
+-updated for sale painting, S no longer 1 pixel wider then other letters
+-updated fun beta painting to be fun 0.9.1
+-updated world map painting, no longer blue and white, actually has biomes
+-1.21 paintings:
+--Changing: Hot Air Balloon
+--Humble: Small Whiteboard
+--Lowmist: Tu19 Eilean Donan render
+--Passage: Chalkboard
+--Prairie Ride: Poster
+--Bouquet: Painting from sims 2
+--Finding: Large Whiteboard
+--Cavebird: Steveston Mountains
+--Cotan: Photo of Whitmore lake Mi
+--Backyard : Sims 2 East Asian Painting
+--Fern : Group of 6 Posters
+--Owlemons : "Suspense" Sims 2 base game adaptation
+Version 0.6.5 for 1.21 (7/11/2024)
+-Readded Splash text which was removed in version v0.3
+-More Optimization
+-New Unknown Server Picture
+-Added Allow and Deny custom textures
+-Changed Dried Kelp Block texture
+-Changed glowstone Texture
+-Changed Redstone, Lapis, Emerald, and Copper Ore Textures
+-Changed Quartz Bricks texture to be consistant with polished diorite
+-Tuff and Calcite swapped to use Tuff's variants as quartz stairs and slabs
+-1.21 additions
+-1.21 paintings:
+--Meditative: Windows 10
+--Tides: Fun 1.0 photo
+--Unpacked: De-festivised Clock
+Version 0.6.4 for 1.20.2 (5/14/2024)
+-Changed 2 Paintings
+-Changed flowers : Cornflower, Wither Rose, Rose, Dandelion, Blue Orchid, Oxeye Daisy, Orange Tulip, Pink Tulip, Red Tulip, and White Tulip
+-Changed Fern Texture
+-Changed Melon texture to be consistent with Pumpkin Texture
+-Changed Green Wool
+-Optimization
+Version 0.6.3 for 1.20.2 (12/23/2023)
+-added Changelog.txt
+-added custom pack.png
+-added custom Mangrove log texture being final texture of minecraft to not have custom texture made
+-changed some of  the Terracotta Textures to be less saturated and more contrasty (Orange, Blue, Cyan, Gray, Light Gray, Green, Magenta, Purple)
+-changed all normal sandstone blocks to use same color palette
+-changed suspicious gravel texture
+-changed polished andesite texture
+-changed polished granite texture
+-changed wool blocks to be colorful concrete like blocks due to mushroom  locks already being carpet
+-changed bamboo mosaic texture
+-changed cherry planks texture
+-changed bamboo trapdoor texture
+-changed mangrove roots texture
+-changed bamboo door texture again
+-fixed bookshelf variation
+-made non-gf stone bricks texture
+-more block name changes
+-new Y Panorama
+-removed some item textures
+-updated world map painting
+Version 0.6.2 for 1.20.2 (released 11/26/2023)
+-changed "corrugated steel" to "ribbed metal" which is more correct
+-changed Sunflower, Azure bluet, and Lilac textures
+-changed mossy cobbblestone texture
+-changed bamboo door texture
+-changed Polished Granite texture to fit terracotta colors
+-changed magenta glass to white
+-updated mossy stone bricks texture
+-made mangrove leaves properly change colors
+-made sandstone texture be different from smooth sandstone texture
+-made Stone brickis texture into new-non greenfield slate bricks texture
+-fixed stripped cherry log texture not working + made new one
+-pistachio green glass made forest green color
+-almost all blocks now have custom names for easier searching and palette making
+Version 0.6.1 for 1.20.1
+- added various sound related stuff
+- new moonphases art to represent the full immy expanded universe
+- changed almost all tile names
+- changed cherry and mosaic plank textures
+- changed polished Deepslate, Blackstone, Diorite, Andesite, and Granite Textures
+- changed Gilded Blackstone texture
+- changed all Pumpkin block and Jack'o'lantern textures
+- changed world map painting
+- changed wool textures again
+- changed carved sandstone to be less noisy
+- changed emerald ore and gilded blackstone to use dried kelp block colors
+- changed quartz pillar, smooth quartz, quartz bricks, and quartz block textures
+- changed brown concrete texture
+- changed basalt texture to be crimson siding
+- oak, birch, spruce, jungle, and dark oak planks now have their own non-greenfield textures by me
+Version 0.6 for 1.20
+- added colormap_template from BetterTrees Texture Pack
+- some structure block related text changes
+- fixed soul torch texture not working
+- fixed soul lantern texture not working
+- fixed black outline on two sides of bone block texture
+- updated cracks of blackstone texture
+- changed purple concrete texture to be less contrasted
+- changed dead yellow coral texture to not be the exact same as honeycomb block
+- changed gilded blackstone texture
+- changed redstone torch texture to be same size as other two
+- changed about half of the painting textures in paintings/kz
+- changed stone brick cracked texture again to old gilden blackstone texture
+- changed birch leaves to the color of a Sugar Maple's Leaves
+- changed mangrove leaves texture
+- changed glazed terracotta textures
+- changed crimson fungus and roots textures
+- changed allium texture
+- changed reinforced deepslate texture
+- changed tons of block names
+- made custom pot textures for use as vases and lamp bases
+- made custom spruce planks texture
+- made custom music disc textures
+- made custom barrier textures
+- made custom bamboo and cherry related textures
+- made custom sign entity, ui, and item textures for all hanging signs
+- made custom mangrove door item texture
+- made sus blocks into different colored sands
+- made custom bamboo block and stripped bamboo block textures
+- made torchflower be Barley from Pam's hc2
+- made pitcher crop into corn
+- made custom calibrated skulk sensor texture
+- made custom pink petals texture
+- deleted tons of unused textures
+- deleted "update these" folder
+- revert v7.3 moon and sun texture change
+Version 0.5.3 for 1.19
+- changed mossy cobblestone texture
+- changed mossy stone bricks texture
+- changed cracked stone bricks texture
+- changed quartz pillar top texture
+- changed purpur pillar texture
+- changed names of mossy and cracked stone stuff i just changed to represent their new texture
+Version 0.5.2.1 for 1.19
+- changed mangrove planks texture
+Version 0.5.2 for 1.19
+- made future textures by me folder
+- various name changes
+Version 0.5.1.1 for 1.19
+- new blackstone texture
+Version 0.5.1 for 1.19
+- various name changes
+- changed dead pink coral texture
+- changed rooted dirt texture to old dead pink coral texture
+Version 0.5 for 1.19
+- changed iron trapdoor texture
+- changed mangrove planks texture
+- changed cracked deepslate bricks texture to fit road gradient
+- changed honeycomb block texture to fit road gradient
+- changed concrete textures to the same as road gradients
+- changed all dyes to be ovals (besides the ones already that)
+- changed stone brick texture
+- Made glow item frame texture invisible 
+- Made glow item frame item texture be a frame with nothing in the middle
+- Made custom Flowering Azalea leaves texture
+- Made custom Mangrove leaves texture
+- Made custom Mangrove sign texture
+- fixed big dripleaf texture
+- fixed dirt path texture
+- fixed stripped mangrove texture
+- Made title bigger
+Version 0.4 for 1.19
+- changed record "wait"'s name to "where are we now"
+- made title read "Minecraft - Playstation 4 edition"
+- new muddy mangrove roots texture
+- new mangrove roots texture
+- changed granite texture too be dark grey for roads
+- changed dead yellow coral too be light grey for roads
+- changed obsidian too bee very dark grey for roads
+- removed grass path top texture
+- changed crying obsidian texture
+- changed "Brick block" to "bricks"
+- changed "bookshelf" to "Bookshelves"
+- added customizable borders to black glass for testing
+Version 0.3.6 for 1.19
+- added custom packed mud textures
+- changed crying obsidian texture
+- replaced USA flag painting with ISU flag painting
+Version 0.3.5 for 1.19
+- Contrast on moon and sun changed to make the bounding box not visible
+- Contrast on stone upped
+- Respawn anchor changed back to v2
+- blue glass given no borders
+- various non-used textures removed trimming the pack size down
+- moss reverted back to v1
+- reinforced deepslate side made to match top and bottom
+Version 0.3.4 for 1.19
+- Fixed 10 Bookshelf Textures Variations 
+- New Moon Textures
+- New Sun Textures
+Version 0.3.3.2 for 1.19
+- Louvered Attic Gable Vent Painting 1x1 texture
+Version 0.3.3.1 for 1.19
+- New iron related item textures for all but ingot and nugget
+Version 0.3.3 for 1.19
+- Changed stone texture to fit Andesite texture
+- Changed prismarine texture to fit Andesite texture
+- Changed cracked stone bricks, mossy stone bricks, and mossy cobblestone to be neon blocks
+- Reverted sandstone-related textures to pre v3
+Version 0.3.2.1 for 1.19
+- New panorama of Y
+Version 0.3.2 for 1.19
+- Changed polished stones
+- Changed dead purple coral
+- Changed dead pink coral back
+Version 0.3.1 for 1.19
+- Changed red concrete to be less vibrant
+- fixed glow lichen, candles, and spore blossom textures
+- Changed bone block texture
+- Changed dead pink coral block texture
+- Changed a painting to look like funcity og
+- Added door and sign item textures to reflection block textures
+Version 0.3 for 1.19
+--CHANGES--
+- Changed bed textures 
+- Changed acacia wood, striped, and logs 
+- Changed reinforced deepslate texture 
+- Changed mud bricks texture to dark prismarine 
+- Changed mangrove planks texture 
+- Changed other mangrove textures 
+- Changed muddy mangrove roots texture 
+- Changed metal-related textures 
+- Changed barrel textures 
+- Changed basalt textures 
+- Changed cracked deepslate textures 
+- Changed respawn anchor textures 
+- Changed chiseled sandstones textures 
+- Changed stone bricks texture 
+- Changed tons of painting textures 
+- Changed kebab painting texture
+- Changed moss texture 
+- Changed mossy stone textures 
+- Changed kelp block texture 
+- Changed background panorama to 1.13 tutorial world (might change to 1.8 tutorial world)
+- Changed elytra textures to phantom related 
+- Changed purpur pillar texture 
+- Changed granite texture 
+- Changed dead horn coral block texture 
+- Changed all froglight textures 
+- Changed terracotta textures 
+--REVERSALS--
+- Changed striped dark oak texture to pre 1.18
+- Changed water texture to pre 1.14
+- Changed wool textures to pre 1.12
+--ADDITIONS--
+- Made bamboo have it's own custom texture
+- Added skulk-related textures 
