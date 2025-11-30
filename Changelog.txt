@@ -10,6 +10,12 @@ Updates:
 Version 0.8.2 for "Java Transition"
 -Now Using Greenfield Models/Textures:
 --Candles
+--Glow Lichen
+--Sculk Vein
+--Nether Wart
+--Soul Torch
+--Medium Amethyst Bud
+--Amethyst Cluster
 -Added Glow Item Frame Texture (Mirror)
 -Added Custom Copper Bars Texture (Black Fence)
 -Added Custom Sunflower Painting Texture (3x3 Graffiti)

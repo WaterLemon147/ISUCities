@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/calibrated_sculk_sensor" }
+		]
+    }
+}
