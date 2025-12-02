@@ -7,7 +7,9 @@ Todo:
 - double painting count
 - revamping remaining paintings
 Updates:
-Version 0.8.2 for "Java Transition"
+Version 0.8.3
+-bugfixes
+Version 0.8.2 for 1.21.120 "Java Transition"
 -Now Using Greenfield Models/Textures:
 --Candles
 --Glow Lichen
