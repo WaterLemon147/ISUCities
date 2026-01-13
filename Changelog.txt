@@ -9,10 +9,11 @@ Todo:
 Updates:
 Version 0.8.3
 -bugfixes
+-sunflower_front made to be 16x16
 -Quartz Pillar now recolored Greenfield
 -Greenfield Merges:
---Copper Bulbs
---Copper Grates
+--Copper stuff
+--Mud Bricks = Resin Block (gf)
 Version 0.8.2 for 1.21.120 "Java Transition"
 -Now Using Greenfield Models/Textures:
 --Candles

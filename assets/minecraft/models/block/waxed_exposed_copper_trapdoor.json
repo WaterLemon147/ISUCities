@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "top": "minecraft:block/waxed_exposed_copper_trapdoor",
+    "bottom": "minecraft:block/waxed_exposed_copper_trapdoor",
+    "open": "minecraft:block/waxed_exposed_copper_trapdoor"
+  }
+}
