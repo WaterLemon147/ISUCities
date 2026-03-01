@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/infested_cobblestone",
+  "textures": {
+    "all": "minecraft:item/infested_cobblestone"
+  }
+}

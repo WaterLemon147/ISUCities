@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/infested_deepslate",
+  "textures": {
+    "all": "minecraft:item/infested_deepslate"
+  }
+}
